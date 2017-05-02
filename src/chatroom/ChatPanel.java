@@ -71,7 +71,6 @@ public class ChatPanel extends javax.swing.JPanel {
         jFlushButton = new javax.swing.JButton();
         jTeaButton = new javax.swing.JButton();
 
-        jChatPane.setEditable(false);
         jChatScroll.setViewportView(jChatPane);
 
         jSendButton.setText("send");
